@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@500;600&family=Russo+One&display=swap');
+.icons{
+    display: inline-block;
+    float: right;
+    /* padding: 20px; */
+    width: 33.33%;
+    position: absolute;
+    right: 0px;
+    margin-top: -25px;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    /* white-space: nowrap;
+    overflow: hidden;
+    clear: both;
+    overflow: hidden;
+    white-space: nowrap; */
+
+}
+h1{
+    font-family: 'Pacifico', cursive;
+    /* font-family: 'Goblin One', cursive; */
+    /* font-family: p22-sneaky-pro, sans-serif; */
+font-weight: 400;
+vertical-align: baseline;
+margin-left: 20px;
+margin-bottom: 1px;
+font-style: italic;
+}
+/* .container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  } */
+.image {
+    float:left;
+    margin-left: 20px;
+    display: inline-block;
+    font: inherit;
+    vertical-align: baseline;
+    
+
+    
+  }
+  
+  .text {
+    font-size: 10px;
+    padding-left: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    margin-left: 15px;
+    text-overflow: ellipsis;
+        /* clear: both;
+        display: inline-block;
+        overflow: hidden;
+        white-space: nowrap; */
+    
+  }
+  .hr{
+      background-image: url('img/hr-img.png');
+      /* background-repeat: repeat-x; */
+      /* position: absolute; */
+      height: 15px;
+
+      width: 1400px;
+
+  }
+  h2{
+    font-family: 'Antonio', sans-serif;
+font-family: 'Russo One', sans-serif;
+  }
+  .p {
+    float:right;
+    left: 45px;
+    margin-left: 5px;
+    display: inline-block;
+    font: inherit;
+    vertical-align: baseline;
+    padding: -2px;
+    margin-top: -30px;
+
+    
+  }
+  .h {
+      float:right;
+    left: 45px;
+    margin-left: 5px;
+    display: inline-block;
+    font: inherit;
+    vertical-align: baseline;
+    padding: -2px;
+margin-top: -30px;
+  }
+  p{
+    text-indent: 50px;
+    border-style: hidden;
+    margin-top: 50px;
+  margin-bottom: 60px;
+  margin-right: 60px;
+  margin-left: 60px;
+  width:800px;
+  }
